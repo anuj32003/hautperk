@@ -12,7 +12,7 @@
   </properties>
  
     <repositories>
-        <!-- Repository for ORACLE JDBC Driver -->
+        <!-- Repository for ORACLE JDBC Driver Testing GIT Change 0.1-->
         <repository>
             <id>codelds</id>
             <url>https://code.lds.org/nexus/content/groups/main-repo</url>
